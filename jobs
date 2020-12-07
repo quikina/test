@@ -1,0 +1,33 @@
+[
+            {
+                "corp": "Rohde & Schwarz GmbH & Co. KG",
+                "locations": [
+                    {
+                        "lon": 11.612283,
+                        "lat": 48.127594
+                    }
+                ],
+                "date": "09/29/2020",
+                "id": 662064,
+                "logo": "https://jobboerse.th-nuernberg.de/index.php/en/Logo/ae63d6b3d240db3112d29de1bde72a8c.201124334822.jpeg",
+                "score": 0.9134098137647382,
+                "title": "Intern (m/f/d) System development for antenna measurement systems",
+                "type": "internship during your studies",
+                "url": "https://jobboerse.th-nuernberg.de/index.php/en/job/662064-Intern-mfd-System-development-for-antenna-measurement-systems-Rohde-Schwarz-GmbH-Co-KG"
+            },
+            {
+                "corp": "Firmengruppe APPL Holding GmbH & Co. KG",
+                "locations": [
+                    {
+                        "lon": 10.7185281,
+                        "lat": 48.8764566
+                    }
+                ],
+                "date": "09/28/2020",
+                "id": 661848,
+                "logo": "https://jobboerse.th-nuernberg.de/index.php/en/Logo/28f484880d692f273ec02dbfd4d6fce1.202022941677.png",
+                "score": 0.9612383351361697,
+                "title": "Projektleitung Digitalisierung (m/w/d)",
+                "type": "job for alumni",
+                "url": "https://jobboerse.th-nuernberg.de/index.php/en/job/661848-Projektleitung-Digitalisierung-mwd-Firmengruppe-APPL-Holding-GmbH-Co-KG"
+            }]
